@@ -2,7 +2,8 @@ module.exports = {
   parseCategories     : parseCategories,
   fixPluginName       : fixPluginName,
   camelize            : camelize,
-  fixPluginCategories : fixPluginCategories
+  fixPluginCategories : fixPluginCategories,
+  directCopy          : directCopy
 }
 
 /**
