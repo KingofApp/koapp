@@ -3,7 +3,7 @@ module.exports = {
   fixPluginName       : fixPluginName,
   camelize            : camelize,
   fixPluginCategories : fixPluginCategories,
-  directCopy          : directCopy
+  copy                : copy
 }
 
 /**
