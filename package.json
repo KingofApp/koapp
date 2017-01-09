@@ -1,0 +1,16 @@
+{
+  "name": "koapp",
+  "version": "1.0.0",
+  "description": "King of App command line tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": {
+    "name": "Fran Quesada",
+    "email": "paco@kingofapp.es",
+    "url": "https://github.com/totegsito"
+  },
+  "homepage": "https://github.com/KingofApp/koapp",
+  "license": "MIT"
+}
