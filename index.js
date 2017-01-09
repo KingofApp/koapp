@@ -40,3 +40,29 @@ function camelize(str) {
     return index === 0 ? letter.toLowerCase() : letter.toUpperCase();
   }).replace(/\s+/g, '');
 }
+
+/** Function direct copy files
+* @param {object} this
+* @param {object} input
+* @param {array} relative location - files to copy
+* @param {boolean} [false] internally it uses copy or copyTpl
+*/
+function directCopy(self, input, files, templated) {
+  templated = templated || false;
+
+  for (var i = files.length; i--;) {
+    if (templated) {
+      self.fs.copyTpl(
+        self.templatePath(files[i]),
+        self.destinationPath(files[i]),
+        input
+      );
+    } else {
+      self.fs.copy(
+        self.templatePath(files[i]),
+        self.destinationPath(files[i]),
+        input
+      );
+    }
+  }
+}
