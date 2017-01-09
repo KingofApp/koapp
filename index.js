@@ -42,28 +42,17 @@ function camelize(str) {
   }).replace(/\s+/g, '');
 }
 
-/** Function direct copy files
-* @param {object} this
-* @param {object} input
-* @param {array} relative location - files to copy
-* @param {boolean} [false] internally it uses copy or copyTpl
+/** Function copy files
+* @param {object} self
+* @param {string} fn  function which is going to be invoked
+* @param {string} origin
+* @param {string} destination location - files to copy
+* @param {boolean} [data] internally it uses copy or copyTpl
 */
-function directCopy(self, input, files, templated) {
-  templated = templated || false;
-
-  for (var i = files.length; i--;) {
-    if (templated) {
-      self.fs.copyTpl(
-        self.templatePath(files[i]),
-        self.destinationPath(files[i]),
-        input
-      );
-    } else {
-      self.fs.copy(
-        self.templatePath(files[i]),
-        self.destinationPath(files[i]),
-        input
-      );
-    }
-  }
+function copy(self, fn, origin, destination, data){
+  self.fs[fn](
+    self.templatePath(origin),
+    self.destinationPath(destination),
+    data
+  );
 }
