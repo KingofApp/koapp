@@ -12,5 +12,8 @@
     "url": "https://github.com/totegsito"
   },
   "homepage": "https://github.com/KingofApp/koapp",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
