@@ -66,7 +66,7 @@ function copy(self, fn, origin, destination, data){
  * @returns {object} obj
 */
 function readConfig(callback){
-  fs.readFile('visualizer/www/core/structure.json', 'utf8', function (err, data) {
+  fs.readFile('../com.kingofapp.visualizer/www/core/structure.json', 'utf8', function (err, data) {
       if (err){
         callback(err, {});
       }else {
