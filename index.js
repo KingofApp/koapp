@@ -1,9 +1,14 @@
+var fs = require('fs');
+var _  = require('lodash');
+
 module.exports = {
   parseCategories     : parseCategories,
   fixPluginName       : fixPluginName,
   camelize            : camelize,
   fixPluginCategories : fixPluginCategories,
-  copy                : copy
+  copy                : copy,
+  readConfig          : readConfig,
+  getUniqueItems      : getUniqueItems
 }
 
 /**
@@ -55,4 +60,29 @@ function copy(self, fn, origin, destination, data){
     self.destinationPath(destination),
     data
   );
+}
+
+/** Function reads structure.json
+ * @returns {object} obj
+*/
+function readConfig(callback){
+  fs.readFile('../com.kingofapp.visualizer/www/core/structure.json', 'utf8', function (err, data) {
+      if (err){
+        callback(err, {});
+      }else {
+        var obj = JSON.parse(data);
+        callback(null, obj);
+      }
+  });
+}
+/** Get unique values from object Example: Dependencies inside Modules
+* @param {object} items
+* @param {string} key
+* @returns {object} items
+*/
+function getUniqueItems(items, key){
+  items = _.map(items, key);
+  items = _.flatten(items);
+  items = _.uniq(items);
+  return  _.compact(items);
 }
