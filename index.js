@@ -62,19 +62,6 @@ function copy(self, fn, origin, destination, data){
   );
 }
 
-/** Function reads structure.json
- * @returns {object} obj
-*/
-function readConfig(callback){
-  fs.readFile('../com.kingofapp.visualizer/www/core/structure.json', 'utf8', function (err, data) {
-      if (err){
-        callback(err, {});
-      }else {
-        var obj = JSON.parse(data);
-        callback(null, obj);
-      }
-  });
-}
 /** Get unique values from object Example: Dependencies inside Modules
 * @param {object} items
 * @param {string} key
