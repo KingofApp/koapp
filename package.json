@@ -1,17 +1,19 @@
 {
   "name": "koapp",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "King of App tools",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "author": "King of App",
-  "contributors": [{
-    "name": "Fran Quesada",
-    "email": "paco@kingofapp.es",
-    "url": "https://github.com/totegsito"
-  }],
+  "contributors": [
+    {
+      "name": "Fran Quesada",
+      "email": "paco@kingofapp.es",
+      "url": "https://github.com/totegsito"
+    }
+  ],
   "homepage": "https://github.com/KingofApp/koapp",
   "license": "MIT",
   "dependencies": {
