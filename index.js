@@ -7,7 +7,6 @@ module.exports = {
   camelize            : camelize,
   fixPluginCategories : fixPluginCategories,
   copy                : copy,
-  readConfig          : readConfig,
   getUniqueItems      : getUniqueItems
 }
 
