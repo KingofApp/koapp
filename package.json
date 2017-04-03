@@ -17,6 +17,7 @@
   "homepage": "https://github.com/KingofApp/koapp",
   "license": "MIT",
   "dependencies": {
+    "console.mute": "^0.3.0",
     "lodash": "^4.17.4"
   }
 }
