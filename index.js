@@ -1,3 +1,4 @@
+require('console.mute');
 var fs = require('fs');
 var _  = require('lodash');
 
@@ -7,7 +8,8 @@ module.exports = {
   camelize            : camelize,
   fixPluginCategories : fixPluginCategories,
   copy                : copy,
-  getUniqueItems      : getUniqueItems
+  getUniqueItems      : getUniqueItems,
+  debugLog            : debugLog
 }
 
 /**
@@ -71,4 +73,18 @@ function getUniqueItems(items, key){
   items = _.flatten(items);
   items = _.uniq(items);
   return  _.compact(items);
+}
+
+/** MAnages koapp-cli logs
+* @param {string} message
+* @param {boolean} debug
+*/
+function debugLog(message, debug){
+  if(!debug) debug = false;
+  if(!debug) console.log(message);
+  else{
+    console.resume();
+    console.log(message);
+    console.mute();
+  }
 }
