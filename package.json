@@ -1,6 +1,6 @@
 {
   "name": "koapp",
-  "version": "0.0.71",
+  "version": "0.1.1",
   "description": "King of App tools",
   "main": "index.js",
   "scripts": {
