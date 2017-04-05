@@ -3,20 +3,12 @@ var fs = require('fs');
 var _  = require('lodash');
 
 module.exports = {
-  parseCategories     : parseCategories,
   fixPluginName       : fixPluginName,
   camelize            : camelize,
   fixPluginCategories : fixPluginCategories,
   copy                : copy,
   getUniqueItems      : getUniqueItems,
   debugLog            : debugLog
-}
-
-/**
-* @param {String} user's input
-*/
-function parseCategories(input) {
-  this.options.categories = input.split(',');
 }
 
 /** Function that validate the Spinner name
