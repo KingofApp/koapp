@@ -1,0 +1,1144 @@
+{
+  "_id": "58bd4407b9d37bb0691b0f62",
+  "name": "Does it works?",
+  "users": [
+    {
+      "_id": "55f2a0291176d59f1167261d",
+      "rules": "owner"
+    },
+    {
+      "_id": "58766ffd613b11d34abe547e",
+      "rules": "developer"
+    }
+  ],
+  "themes": {
+    "ios": {
+      "_id": "575159a709ab0866cabf3787",
+      "name": "Red Light",
+      "identifier": "koapp-theme-redlight",
+      "version": "1.1.1",
+      "author": "Aarón Nehan, <thealchemist@kingofapp.es>",
+      "price": 29,
+      "images": {
+        "list": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/screenshots1.png",
+          "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/screenshots3.png"
+        ],
+        "popover": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/popover.png",
+        "banner": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/popover.png"
+      },
+      "defaultConfig": {
+        "colors": {
+          "primaryTextColor": "rgba(244,63,68,1)",
+          "primaryBackgroundColor": "rgba(244,63,68,1)",
+          "secondaryTextColor": "rgba(255,255,255,1)",
+          "disabledTextColor": "rgba(239,239,239,1)",
+          "dividerColor": "rgba(0,0,0,.6)",
+          "primaryColor": "rgba(244,63,68,1)",
+          "lightPrimaryColor": "rgba(141,139,186,1)",
+          "darkPrimaryColor": "rgba(191,0,7,1)",
+          "accentColor": "rgba(0,122,205,1)",
+          "lightAccentColor": "rgba(177,177,177,1)",
+          "darkAccentColor": "rgba(245,0,87,1)",
+          "errorColor": "rgba(221,44,0,1)",
+          "backgroundColor": "rgba(244,244,244,1)"
+        },
+        "images": {
+          "background": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/bg.png"
+        },
+        "fonts": {
+          "primaryFontFamily": {
+            "name": "Raleway",
+            "url": "https://fonts.googleapis.com/css?family=Raleway:400,700,500,300' rel='stylesheet"
+          },
+          "titleFontFamily": {
+            "name": "Raleway",
+            "url": "https://fonts.googleapis.com/css?family=Raleway:400,700,500,300' rel='stylesheet"
+          }
+        },
+        "menu": "polymermenu"
+      },
+      "main": "http://resources.kingofapp.com/themes/koapp-theme-redlight/koapp-theme-redlight.html",
+      "createdAt": "2016-06-03T10:19:28.194Z",
+      "path": "http://resources.kingofapp.com/themes/koapp-theme-redlight/koapp-theme-redlight.html",
+      "preview": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/screenshots1.png",
+      "status": true,
+      "isUpdated": false
+    },
+    "android": {
+      "_id": "575159a709ab0866cabf3787",
+      "name": "Red Light",
+      "identifier": "koapp-theme-redlight",
+      "version": "1.1.1",
+      "author": "Aarón Nehan, <thealchemist@kingofapp.es>",
+      "price": 29,
+      "images": {
+        "list": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/screenshots1.png",
+          "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/screenshots3.png"
+        ],
+        "popover": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/popover.png",
+        "banner": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/popover.png"
+      },
+      "defaultConfig": {
+        "colors": {
+          "primaryTextColor": "rgba(244,63,68,1)",
+          "primaryBackgroundColor": "rgba(244,63,68,1)",
+          "secondaryTextColor": "rgba(255,255,255,1)",
+          "disabledTextColor": "rgba(239,239,239,1)",
+          "dividerColor": "rgba(0,0,0,.6)",
+          "primaryColor": "rgba(244,63,68,1)",
+          "lightPrimaryColor": "rgba(141,139,186,1)",
+          "darkPrimaryColor": "rgba(191,0,7,1)",
+          "accentColor": "rgba(0,122,205,1)",
+          "lightAccentColor": "rgba(177,177,177,1)",
+          "darkAccentColor": "rgba(245,0,87,1)",
+          "errorColor": "rgba(221,44,0,1)",
+          "backgroundColor": "rgba(244,244,244,1)"
+        },
+        "images": {
+          "background": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/bg.png"
+        },
+        "fonts": {
+          "primaryFontFamily": {
+            "name": "Raleway",
+            "url": "https://fonts.googleapis.com/css?family=Raleway:400,700,500,300' rel='stylesheet"
+          },
+          "titleFontFamily": {
+            "name": "Raleway",
+            "url": "https://fonts.googleapis.com/css?family=Raleway:400,700,500,300' rel='stylesheet"
+          }
+        },
+        "menu": "polymermenu"
+      },
+      "main": "http://resources.kingofapp.com/themes/koapp-theme-redlight/koapp-theme-redlight.html",
+      "createdAt": "2016-06-03T10:19:28.194Z",
+      "path": "http://resources.kingofapp.com/themes/koapp-theme-redlight/koapp-theme-redlight.html",
+      "preview": "http://resources.kingofapp.com/themes/koapp-theme-redlight/images/screenshots1.png",
+      "status": true,
+      "isUpdated": false
+    }
+  },
+  "config": {
+    "index": "/boxmenu-kKoEW/rss-Uifku",
+    "colors": {
+      "primaryTextColor": "rgba(6,0,0,1)",
+      "primaryBackgroundColor": "rgba(240,240,240,1)",
+      "secondaryTextColor": "rgba(6,0,0,1)",
+      "disabledTextColor": "rgba(239,239,239,1)",
+      "dividerColor": "rgba(0,0,0,.6)",
+      "primaryColor": "rgba(244,63,68,1)",
+      "lightPrimaryColor": "rgba(141,139,186,1)",
+      "darkPrimaryColor": "rgba(191,0,7,1)",
+      "accentColor": "rgba(0,122,205,1)",
+      "lightAccentColor": "rgba(177,177,177,1)",
+      "darkAccentColor": "rgba(245,0,87,1)",
+      "errorColor": "rgba(221,44,0,1)",
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    "fonts": {
+      "primaryFontFamily": {
+        "name": "Raleway",
+        "url": "https://fonts.googleapis.com/css?family=Raleway"
+      },
+      "titleFontFamily": {
+        "name": "Raleway",
+        "url": "https://fonts.googleapis.com/css?family=Raleway"
+      }
+    },
+    "iconset": {
+      "name": "icons",
+      "url": "http://resources.kingofapp.com/bower_components/iron-icons/iron-icons.html"
+    },
+    "images": {
+      "logo": null,
+      "icon": "http://files.kingofapp.com/58bd4407b9d37bb0691b0f62/assets/images/icon.png?update=1465477079657",
+      "splash": "http://files.kingofapp.com/58bd4407b9d37bb0691b0f62/assets/images/splash.png?update=1465477082219",
+      "background": "http://files.kingofapp.com/58bd4407b9d37bb0691b0f62/assets/images/background.png?update=1465477083425",
+      "undefined": "http://api.kingofapp.com/getImage/app/575947b7fb992fd528442235/undefined.png?update=1465477083893",
+      "banner": null,
+      "promo": null
+    },
+    "lang": [
+      "es_ES"
+    ],
+    "version": "0.0.1",
+    "customized": true,
+    "theme": {
+      "identifier": "koapp-theme-redlight",
+      "path": "http://resources.kingofapp.com/themes/koapp-theme-redlight/koapp-theme-redlight.html"
+    },
+    "spinner": {
+      "identifier": "koapp-spinner-android",
+      "path": "http://resources.kingofapp.com/spinners/koapp-spinner-android/koapp-spinner-android.html"
+    }
+  },
+  "metadata": {
+    "common": {
+      "localised": {
+        "en_US": {
+          "name": "",
+          "description": "",
+          "keywords": ""
+        },
+        "es_ES": {
+          "name": "Enigma",
+          "description": "Enigma es la app donde todas tus preguntas y dudas serán resueltas, tecnología, misterios, extraterrestres, esoterismo, astronomía, ciencia, ovnis, y mucho más aquí.",
+          "keywords": [
+            {
+              "text": "ovni"
+            },
+            {
+              "text": "paranormal"
+            },
+            {
+              "text": "ciencia"
+            },
+            {
+              "text": "misterio"
+            }
+          ]
+        }
+      },
+      "category": "News&Magazine"
+    }
+  },
+  "modules": {
+    "/boxmenu-kKoEW/rss-Uifku": {
+      "_id": "5617c66aeec9277687b1e875",
+      "name": "RSS feed",
+      "identifier": "rss",
+      "descriptionShort": {
+        "es-ES": "El RSS de cualquier página web disponible en la App.",
+        "en-US": "El RSS de cualquier página web disponible en la App."
+      },
+      "icon": "rss",
+      "type": "A",
+      "version": "1.0.3",
+      "author": "King of App",
+      "category": [
+        "social"
+      ],
+      "price": 0,
+      "view": "http://resources.kingofapp.com/modules/rss/original/1.0.3/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/rss/original/1.0.3/controller.js",
+        "http://resources.kingofapp.com/modules/rss/original/1.0.3/style.html"
+      ],
+      "deps": [
+        "https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git"
+      ],
+      "scope": {
+        "feed": "http://feeds.feedburner.com/blogspot/EoeoI",
+        "image": 2
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_screenshot01.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_icon.png"
+      },
+      "createdAt": null,
+      "uniqueId": "rss-Uifku",
+      "itemType": "item",
+      "pose": 0,
+      "path": "/boxmenu-kKoEW/rss-Uifku"
+    },
+    "/boxmenu-kKoEW/rss-lGmx0": {
+      "_id": "5617c66aeec9277687b1e875",
+      "name": "RSS feed",
+      "identifier": "rss",
+      "descriptionShort": {
+        "es-ES": "El RSS de cualquier página web disponible en la App.",
+        "en-US": "El RSS de cualquier página web disponible en la App."
+      },
+      "icon": "rss",
+      "type": "A",
+      "version": "1.0.3",
+      "author": "King of App",
+      "category": [
+        "social"
+      ],
+      "price": 0,
+      "view": "http://resources.kingofapp.com/modules/rss/original/1.0.3/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/rss/original/1.0.3/controller.js",
+        "http://resources.kingofapp.com/modules/rss/original/1.0.3/style.html"
+      ],
+      "deps": [
+        "https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git"
+      ],
+      "scope": {
+        "feed": "http://feeds.feedburner.com/blogspot/EoeoI",
+        "image": 2
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_screenshot01.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_icon.png"
+      },
+      "createdAt": null,
+      "uniqueId": "rss-lGmx0",
+      "itemType": "item",
+      "pose": 1,
+      "path": "/boxmenu-kKoEW/rss-lGmx0"
+    },
+    "/boxmenu-kKoEW/youtubevideo-qoD3r": {
+      "_id": "5617c66aeec9277687b1e867",
+      "name": "Youtube Video",
+      "identifier": "youtubevideo",
+      "descriptionShort": {
+        "es-ES": "Carga un video concreto de youtube para visualizarlo en tu App",
+        "en-US": "Carga un video concreto de youtube para visualizarlo en tu App"
+      },
+      "icon": "youtube",
+      "type": "A",
+      "version": "1.0.1",
+      "author": "King of App",
+      "category": [
+        "media"
+      ],
+      "price": 0,
+      "canContain": false,
+      "view": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/controller.js",
+        "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/directive.js"
+      ],
+      "scope": {
+        "videoid": "bwb9PO2y8vA",
+        "debug": "false"
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtube-video_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtuve-video_screenshots.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtube-video_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtube-video_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtube-video_icon.png"
+      },
+      "createdAt": null,
+      "uniqueId": "youtubevideo-qoD3r",
+      "itemType": "item",
+      "pose": 2,
+      "path": "/boxmenu-kKoEW/youtubevideo-qoD3r"
+    },
+    "/boxmenu-kKoEW/youtubevideo-lr5SV": {
+      "_id": "5617c66aeec9277687b1e867",
+      "name": "Youtube Video",
+      "identifier": "youtubevideo",
+      "descriptionShort": {
+        "es-ES": "Carga un video concreto de youtube para visualizarlo en tu App",
+        "en-US": "Carga un video concreto de youtube para visualizarlo en tu App"
+      },
+      "icon": "youtube",
+      "type": "A",
+      "version": "1.0.1",
+      "author": "King of App",
+      "category": [
+        "media"
+      ],
+      "price": 0,
+      "canContain": false,
+      "view": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/controller.js",
+        "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/directive.js"
+      ],
+      "scope": {
+        "videoid": "bwb9PO2y8vA",
+        "debug": "false"
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtube-video_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtuve-video_screenshots.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtube-video_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtube-video_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/youtubevideo/original/1.0.1/images/youtube-video_icon.png"
+      },
+      "createdAt": null,
+      "uniqueId": "youtubevideo-lr5SV",
+      "itemType": "item",
+      "pose": 3,
+      "path": "/boxmenu-kKoEW/youtubevideo-lr5SV"
+    },
+    "/boxmenu-kKoEW/rss-vAyyk": {
+      "_id": "5617c66aeec9277687b1e875",
+      "name": "RSS feed",
+      "identifier": "rss",
+      "descriptionShort": {
+        "es-ES": "El RSS de cualquier página web disponible en la App.",
+        "en-US": "El RSS de cualquier página web disponible en la App."
+      },
+      "icon": "rss",
+      "type": "A",
+      "version": "1.0.3",
+      "author": "King of App",
+      "category": [
+        "social"
+      ],
+      "price": 0,
+      "view": "http://resources.kingofapp.com/modules/rss/original/1.0.3/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/rss/original/1.0.3/controller.js",
+        "http://resources.kingofapp.com/modules/rss/original/1.0.3/style.html"
+      ],
+      "deps": [
+        "https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git"
+      ],
+      "scope": {
+        "feed": "http://feeds.feedburner.com/blogspot/EoeoI",
+        "image": 2
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_screenshot01.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/rss/original/1.0.3/images/rss-feed_icon.png"
+      },
+      "createdAt": null,
+      "uniqueId": "rss-vAyyk",
+      "itemType": "item",
+      "pose": 4,
+      "path": "/boxmenu-kKoEW/rss-vAyyk"
+    },
+    "/boxmenu-kKoEW/contact-XUNla": {
+      "_id": "5617c66aeec9277687b1e870",
+      "name": "Contact",
+      "identifier": "contact",
+      "descriptionShort": {
+        "es-ES": "Activa este módulo si quieres que tus seguidores se pongan en contacto contigo.",
+        "en-US": "Activa este módulo si quieres que tus seguidores se pongan en contacto contigo."
+      },
+      "icon": "perm-contact-calendar",
+      "type": "A",
+      "version": "1.0.2",
+      "author": "King of App",
+      "category": [
+        "others"
+      ],
+      "price": 0,
+      "canContain": false,
+      "view": "http://resources.kingofapp.com/modules/contact/original/1.0.2/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/contact/original/1.0.2/controller.js"
+      ],
+      "scope": {
+        "send_address": "asd@gmail.com",
+        "mandrill_key": "asdfa",
+        "debug": false
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/contact/original/1.0.2/images/contact_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/contact/original/1.0.2/images/contact_screenshot03.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/contact/original/1.0.2/images/contact_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/contact/original/1.0.2/images/contact_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/contact/original/1.0.2/images/contact_logo.png"
+      },
+      "createdAt": null,
+      "uniqueId": "contact-XUNla",
+      "itemType": "item",
+      "pose": 5,
+      "path": "/boxmenu-kKoEW/contact-XUNla"
+    },
+    "/boxmenu-kKoEW/grouplist-LEZO9": {
+      "_id": "5617c66aeec9277687b1e868",
+      "name": "Group list",
+      "identifier": "grouplist",
+      "descriptionShort": {
+        "es-ES": "Modulo de Group List",
+        "en-US": "Modulo de Group List"
+      },
+      "icon": "list",
+      "type": "A",
+      "canContain": false,
+      "version": "1.0.2",
+      "author": "King of App",
+      "category": [
+        "others"
+      ],
+      "price": 0,
+      "view": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/controller.js",
+        "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/styles.html"
+      ],
+      "libs": [
+        {
+          "bower": {
+            "PolymerElements/iron-flex-layout": "^1.0.0"
+          },
+          "src": "http://resources.kingofapp.com/bower_components/iron-flex-layout/iron-flex-layout.html"
+        }
+      ],
+      "scope": {
+        "menuItems": [
+          {
+            "path": "/boxmenu-kKoEW/rss-Uifku",
+            "bgImage": "http://i.imgur.com/cjjPnmn.png"
+          },
+          {
+            "path": "/boxmenu-kKoEW/rss-lGmx0",
+            "bgImage": "http://i.imgur.com/cjjPnmn.png"
+          },
+          {
+            "path": "/boxmenu-kKoEW/grouplist-LEZO9/facebookfeed-abcd",
+            "bgImage": "",
+            "bgColor": ""
+          }
+        ],
+        "columns": 1,
+        "separation": "3px",
+        "border": true,
+        "showText": true,
+        "showIcon": false
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_screenshots01.png",
+          "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_screenshots02.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_logo.png"
+      },
+      "createdAt": null,
+      "uniqueId": "grouplist-LEZO9",
+      "itemType": "item",
+      "pose": 6,
+      "path": "/boxmenu-kKoEW/grouplist-LEZO9"
+    },
+    "/boxmenu-kKoEW/youtubegallery-XrbJ5": {
+      "_id": "5617c66aeec9277687b1e86b",
+      "name": "Youtube Gallery",
+      "identifier": "youtubegallery",
+      "descriptionShort": {
+        "es-ES": "Ofrece todos los vídeos de tu canal a los usuarios de tu app.",
+        "en-US": "Ofrece todos los vídeos de tu canal a los usuarios de tu app."
+      },
+      "icon": "youtube",
+      "type": "A",
+      "version": "1.0.5",
+      "author": "King of App",
+      "category": [
+        "media"
+      ],
+      "price": 0,
+      "canContain": false,
+      "view": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/controller.js",
+        "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/directive.js",
+        "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/style.css"
+      ],
+      "requires": {
+        "out": [
+          "youtubevideo"
+        ]
+      },
+      "scope": {
+        "childrenUrl": {
+          "youtubevideo": "/boxmenu-kKoEW/youtubevideo-qoD3r"
+        },
+        "channelid": "UCXoPy1Q1G39fCemCMAmiorQ",
+        "token": "AIzaSyBQ3w6f5mFXyOK5sWC2oXzYcjLbN8IHRjg",
+        "path": "/boxmenu-kKoEW/youtubevideo-qoD3r"
+      },
+      "libs": [
+        {
+          "bower": {
+            "moment": "^2.11.2"
+          },
+          "src": "http://resources.kingofapp.com/bower_components/moment/moment.js"
+        }
+      ],
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtube-video_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtuve-video_screenshots.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtube-video_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtube-video_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtube-video_icons.png"
+      },
+      "createdAt": null,
+      "uniqueId": "youtubegallery-XrbJ5",
+      "itemType": "item",
+      "pose": 7,
+      "path": "/boxmenu-kKoEW/youtubegallery-XrbJ5"
+    },
+    "/boxmenu-kKoEW/youtubegallery-99Ww2": {
+      "_id": "5617c66aeec9277687b1e86b",
+      "name": "Youtube Gallery",
+      "identifier": "youtubegallery",
+      "descriptionShort": {
+        "es-ES": "Ofrece todos los vídeos de tu canal a los usuarios de tu app.",
+        "en-US": "Ofrece todos los vídeos de tu canal a los usuarios de tu app."
+      },
+      "icon": "youtube",
+      "type": "A",
+      "version": "1.0.5",
+      "author": "King of App",
+      "category": [
+        "media"
+      ],
+      "price": 0,
+      "canContain": false,
+      "view": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/controller.js",
+        "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/directive.js",
+        "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/style.css"
+      ],
+      "requires": {
+        "out": [
+          "youtubevideo"
+        ]
+      },
+      "scope": {
+        "childrenUrl": {
+          "youtubevideo": "/boxmenu-kKoEW/youtubevideo-qoD3r"
+        },
+        "channelid": "UCXoPy1Q1G39fCemCMAmiorQ",
+        "token": "AIzaSyBQ3w6f5mFXyOK5sWC2oXzYcjLbN8IHRjg",
+        "path": "/boxmenu-kKoEW/youtubevideo-qoD3r"
+      },
+      "libs": [
+        {
+          "bower": {
+            "moment": "^2.11.2"
+          },
+          "src": "http://resources.kingofapp.com/bower_components/moment/moment.js"
+        }
+      ],
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtube-video_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtuve-video_screenshots.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtube-video_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtube-video_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/youtubegallery/original/1.0.5/images/youtube-video_icons.png"
+      },
+      "createdAt": null,
+      "uniqueId": "youtubegallery-99Ww2",
+      "itemType": "item",
+      "pose": 8,
+      "path": "/boxmenu-kKoEW/youtubegallery-99Ww2"
+    },
+    "/boxmenu-kKoEW/pdfviewer-tz5BF": {
+      "_id": "5617c66aeec9277687b1e864",
+      "name": "PDF Viewer",
+      "identifier": "pdfviewer",
+      "descriptionShort": {
+        "es-ES": "Sube la información que quieras en formato PDF. ¡Listo para descargar!",
+        "en-US": "Sube la información que quieras en formato PDF. ¡Listo para descargar!"
+      },
+      "icon": "pdf-viewer",
+      "type": "A",
+      "version": "1.0.1",
+      "author": "King of App",
+      "category": [
+        "others"
+      ],
+      "price": 0,
+      "canContain": false,
+      "view": "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/pdfjs/pdf.js",
+        "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/pdfjs/pdf.worker.js",
+        "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/controller.js"
+      ],
+      "scope": {
+        "value": "http://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf",
+        "debug": false
+      },
+      "libs": [],
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/images/pdf_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/images/screenshot01.png",
+          "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/images/screenshot02.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/images/pdf_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/images/pdf_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/pdfviewer/original/1.0.1/images/pdf_icon.png"
+      },
+      "createdAt": null,
+      "uniqueId": "pdfviewer-tz5BF",
+      "itemType": "item",
+      "pose": 9,
+      "path": "/boxmenu-kKoEW/pdfviewer-tz5BF"
+    },
+    "/boxmenu-kKoEW/mp3-7A67s": {
+      "_id": "5703865a09ab0866cabf34cb",
+      "name": "Mp3 Module",
+      "identifier": "mp3",
+      "descriptionShort": {
+        "es-ES": "Módulo mp3.",
+        "en-US": "Mp3 module"
+      },
+      "icon": "http://es.downloadicons.net/sites/default/files/el-icono-de-mp3-54064.png",
+      "type": "A",
+      "version": "1.0.2",
+      "author": "King of App",
+      "category": [
+        "media"
+      ],
+      "price": 9,
+      "canContain": false,
+      "view": "http://resources.kingofapp.com/modules/mp3/original/1.0.2/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/mp3/original/1.0.2/controller.js",
+        "http://resources.kingofapp.com/modules/mp3/original/1.0.2/directive.js"
+      ],
+      "scope": {
+        "title": "Morning Mood - orchestral",
+        "mp3": "http://www.mfiles.co.uk/mp3-downloads/edvard-grieg-peer-gynt1-morning-mood.mp3",
+        "autoplay": true
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/mp3/original/1.0.2/images/MP3_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/mp3/original/1.0.2/images/mp3_screenshots01.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/mp3/original/1.0.2/images/MP3_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/mp3/original/1.0.2/images/MP3_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/mp3/original/1.0.2/images/MP3_icon.png"
+      },
+      "createdAt": "2016-04-05T09:39:49.406Z",
+      "uniqueId": "mp3-7A67s",
+      "itemType": "item",
+      "pose": 10,
+      "path": "/boxmenu-kKoEW/mp3-7A67s",
+      "typeMarket": "modules"
+    },
+    "/boxmenu-kKoEW/grouplist-xy4xP": {
+      "_id": "5617c66aeec9277687b1e868",
+      "name": "Group list",
+      "identifier": "grouplist",
+      "descriptionShort": {
+        "es-ES": "Modulo de Group List",
+        "en-US": "Modulo de Group List"
+      },
+      "icon": "list",
+      "type": "A",
+      "canContain": false,
+      "version": "1.0.2",
+      "author": "King of App",
+      "category": [
+        "others"
+      ],
+      "price": 0,
+      "view": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/controller.js",
+        "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/styles.html"
+      ],
+      "libs": [
+        {
+          "bower": {
+            "PolymerElements/iron-flex-layout": "^1.0.0"
+          },
+          "src": "http://resources.kingofapp.com/bower_components/iron-flex-layout/iron-flex-layout.html"
+        }
+      ],
+      "scope": {
+        "menuItems": [
+          {
+            "path": "/boxmenu-kKoEW/rss-Uifku",
+            "bgImage": "http://i.imgur.com/cjjPnmn.png"
+          },
+          {
+            "path": "/boxmenu-kKoEW/rss-lGmx0",
+            "bgImage": "http://i.imgur.com/cjjPnmn.png"
+          }
+        ],
+        "columns": 1,
+        "separation": "3px",
+        "border": true,
+        "showText": true,
+        "showIcon": false
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_screenshots01.png",
+          "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_screenshots02.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/grouplist/original/1.0.2/images/grouplist_logo.png"
+      },
+      "createdAt": null,
+      "uniqueId": "grouplist-xy4xP",
+      "itemType": "item",
+      "pose": 11,
+      "path": "/boxmenu-kKoEW/grouplist-xy4xP"
+    },
+    "/boxmenu-kKoEW": {
+      "_id": "5702575709ab0866cabf3449",
+      "name": "Box Menu",
+      "identifier": "boxmenu",
+      "type": "A",
+      "version": "1.0.7",
+      "author": "King of App",
+      "category": [
+        "menu"
+      ],
+      "price": 0,
+      "canContain": true,
+      "icon": "menu",
+      "descriptionShort": {
+        "en-US": "dropdown large buttons",
+        "es-ES": "Menú desplegable de botones grandes"
+      },
+      "images": {
+        "list": "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/images/boxmenu_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/images/boxmenu_screenshot01.png",
+          "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/images/boxmenu_screenshot03.png"
+        ],
+        "popover": "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/images/boxmenu_popover.png",
+        "banner": "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/images/boxmenu_popover.png",
+        "logo": "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/images/boxmenu_icon.png"
+      },
+      "showOn": {
+        "menu": false,
+        "market": true,
+        "dragDrop": true
+      },
+      "requires": [],
+      "view": "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/index.html",
+      "files": [
+        "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/controller.js",
+        "http://resources.kingofapp.com/modules/boxmenu/original/1.0.7/styles.html"
+      ],
+      "libs": [
+        {
+          "bower": {
+            "PolymerElements/iron-flex-layout": "^1.3.0"
+          },
+          "src": "http://resources.kingofapp.com/bower_components/iron-flex-layout/iron-flex-layout.html"
+        }
+      ],
+      "scope": {
+        "menuItems": [
+          {
+            "path": "/boxmenu-kKoEW/rss-vAyyk"
+          },
+          {
+            "path": "/boxmenu-kKoEW/youtubegallery-99Ww2"
+          },
+          {
+            "path": "/boxmenu-kKoEW/youtubegallery-XrbJ5"
+          },
+          {
+            "path": "/boxmenu-kKoEW/pdfviewer-tz5BF"
+          },
+          {
+            "path": "/boxmenu-kKoEW/mp3-7A67s"
+          },
+          {
+            "path": "/boxmenu-kKoEW/contact-XUNla"
+          },
+          {
+            "path": "/boxmenu-kKoEW/youtubevideo-abcd",
+            "bgImage": "",
+            "bgColor": ""
+          }
+        ],
+        "headerShown": false,
+        "headerBackgroundImage": "",
+        "headerBackgroundColor": "",
+        "headerReverse": false,
+        "headerTitle": "",
+        "headerLogo": "",
+        "headerAlignment": "left",
+        "showicons": true,
+        "columns": 2,
+        "toolbarTitle": true,
+        "toolbarLogo": ""
+      },
+      "createdAt": "2016-04-04T12:02:43.568Z",
+      "uniqueId": "boxmenu-kKoEW",
+      "itemType": "container",
+      "pose": 0,
+      "path": "/boxmenu-kKoEW"
+    },
+    "/boxmenu-kKoEW/grouplist-LEZO9/facebookfeed-abcd": {
+      "name": "Facebook Feed",
+      "identifier": "facebookfeed",
+      "icon": "facebook",
+      "type": "A",
+      "version": "1.0.10",
+      "author": "King of App",
+      "category": [
+        "others"
+      ],
+      "price": 0,
+      "subscription": false,
+      "canContain": false,
+      "platforms": [
+        "android",
+        "ios",
+        "windows"
+      ],
+      "view": "modules/facebookfeed/index.html",
+      "files": [
+        "modules/facebookfeed/controller.js",
+        "modules/facebookfeed/style.css"
+      ],
+      "libs": [
+        {
+          "bower": {
+            "moment": "^2.11.2"
+          },
+          "src": "bower_components/moment/moment.js"
+        }
+      ],
+      "scope": {
+        "accesstoken": "",
+        "pageid": "",
+        "visualization": "card"
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      }
+    },
+    "/boxmenu-kKoEW/youtubevideo-abcd": {
+      "name": "Youtube Video",
+      "identifier": "youtubevideo",
+      "icon": "youtube",
+      "type": "A",
+      "version": "1.0.3",
+      "author": "King of App",
+      "category": [
+        "media"
+      ],
+      "price": 0,
+      "subscription": false,
+      "canContain": false,
+      "platforms": [
+        "android",
+        "ios",
+        "windows"
+      ],
+      "view": "modules/youtubevideo/index.html",
+      "files": [
+        "modules/youtubevideo/controller.js",
+        "modules/youtubevideo/directive.js"
+      ],
+      "scope": {
+        "videoid": "bwb9PO2y8vA",
+        "debug": "false"
+      },
+      "showOn": {
+        "menu": true,
+        "market": true,
+        "dragDrop": true
+      }
+    }
+  },
+  "type": "app",
+  "updatedAt": "2017-03-27T08:59:27.007Z",
+  "createAt": "2017-03-06T11:12:07.629Z",
+  "packageName": "com.kingofapp.SBbdRROTbPdETbbOLPIbOfLZ",
+  "services": {
+    "googleanalytics": {
+      "_id": "5617c66aeec9277687b1e87a",
+      "name": "Google Analytics",
+      "identifier": "googleanalytics",
+      "type": "A",
+      "version": "1.0.2",
+      "author": "King of App",
+      "category": [
+        "analytics"
+      ],
+      "price": 29,
+      "showOn": {
+        "market": true
+      },
+      "requires": [],
+      "deps": [
+        "cordova-plugin-google-analytics"
+      ],
+      "files": [
+        "http://resources.kingofapp.com/services/googleanalytics/service.js"
+      ],
+      "images": {
+        "popover": "http://resources.kingofapp.com/services/googleanalytics/images/popover.png",
+        "banner": "http://resources.kingofapp.com/services/googleanalytics/images/popover.png",
+        "logo": "http://resources.kingofapp.com/services/googleanalytics/images/icon.png",
+        "list": "http://resources.kingofapp.com/services/googleanalytics/images/list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/services/googleanalytics/images/gAnalytics_screenshot01.png"
+        ]
+      },
+      "scope": {
+        "trackId": ""
+      },
+      "createdAt": "2012-12-19T06:01:17.171Z",
+      "uniqueId": "googleanalytics-ZkbLk"
+    },
+    "wordpresslogin": {
+      "_id": "575160ee09ab0866cabf3792",
+      "name": "wordpress register and login",
+      "identifier": "wordpresslogin",
+      "description": {
+        "es-ES": "Accede a la aplicación utilizando la información de Wordpress! Activalo a través del panel de configuración para facilitar el acceso a tu audiencia.",
+        "en-US": "Access the application using your Wordpress information! Activate this module from the configuration panel to facilitate the access of your audience."
+      },
+      "descriptionShort": {
+        "es-ES": "Accede a la aplicación utilizando la información de Wordpress!",
+        "en-US": "Login using Wordpress' login information!"
+      },
+      "documentation": {
+        "es-ES": "http://resources.kingofapp.com/modules/wordpresslogin/documentation/es_ES.md",
+        "en-US": "http://resources.kingofapp.com/modules/wordpresslogin/documentation/en_US.md"
+      },
+      "type": "A",
+      "version": "1.0.4",
+      "author": "King of App",
+      "category": [
+        "login"
+      ],
+      "price": 5,
+      "subscription": true,
+      "platforms": [
+        "android",
+        "ios",
+        "windows"
+      ],
+      "showOn": {
+        "market": true
+      },
+      "requires": [],
+      "vendor": {
+        "wordpresslogin": "http://resources.kingofapp.com/services/wordpresslogin/service.js"
+      },
+      "images": {
+        "popover": "http://resources.kingofapp.com/services/wordpresslogin/images/simple-embed-login_popover.png",
+        "banner": "http://resources.kingofapp.com/services/wordpresslogin/images/simple-embed-login_popover.png",
+        "logo": "http://resources.kingofapp.com/services/wordpresslogin/images/simple-embed-login_icon.png",
+        "list": "http://resources.kingofapp.com/services/wordpresslogin/images/wordpress-register-and-login_list.png",
+        "screenshots": [
+          "http://resources.kingofapp.com/services/wordpresslogin/images/wordpresslogin_screenshot01.png",
+          "http://resources.kingofapp.com/services/wordpresslogin/images/wordpresslogin_screenshot02.png"
+        ]
+      },
+      "scope": {
+        "url": "http://koa.pepocivs.com",
+        "modulelogin": {
+          "view": "http://resources.kingofapp.com/services/wordpresslogin/modules/wordpresslogin/index.html",
+          "controller": "http://resources.kingofapp.com/services/wordpresslogin/modules/wordpresslogin/controller.js"
+        },
+        "moduleregister": {
+          "view": "http://resources.kingofapp.com/services/wordpresslogin/modules/wordpressregister/index.html",
+          "controller": "http://resources.kingofapp.com/services/wordpresslogin/modules/wordpressregister/controller.js"
+        }
+      },
+      "config": [
+        {
+          "type": "input",
+          "key": "url",
+          "templateOptions": {
+            "description": "Wordpress Url",
+            "pattern": "(https?://)([/\\w.()-]*).*",
+            "required": true,
+            "label": "Wordpress Url"
+          }
+        }
+      ],
+      "createdAt": "2016-06-03T10:51:49.618Z",
+      "comments": [],
+      "reviews": {
+        "koa": 2.5,
+        "users": 2.5
+      },
+      "downloads": 13,
+      "uniqueId": "wordpresslogin-xBwlc"
+    }
+  },
+  "compilation": "useCompilation"
+}
