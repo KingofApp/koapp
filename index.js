@@ -1,6 +1,7 @@
 require('console.mute');
 var fs = require('fs');
 var _  = require('lodash');
+var name, list, items;
 
 module.exports = {
   fixPluginName       : fixPluginName,
@@ -9,7 +10,7 @@ module.exports = {
   copy                : copy,
   getUniqueItems      : getUniqueItems,
   debugLog            : debugLog
-}
+};
 
 /** Function that validate the Spinner name
 * @returns {String}
@@ -73,7 +74,7 @@ function getUniqueItems(items, key){
 */
 function debugLog(message, debug){
   if(!debug) debug = false;
-  if(!debug) console.log(message);
+  if(debug) console.log(message);
   else{
     console.resume();
     console.log(message);
