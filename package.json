@@ -4,7 +4,7 @@
   "description": "King of App tools",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha test/*tests.js"
   },
   "author": "King of App",
   "contributors": [
